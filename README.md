@@ -1,19 +1,26 @@
 # OPN-Workshop-05-04-21
-- be open about whop controls personal data - 
-- Spec ToiP - 
+0PN mission - online public notice (transaprency) of who (what legal entity and accountable person) controls personal infrmation, and what rule book they have for surveillance/use etc of identifiers.  
 
-This May 4th we are having a workshop on OPN
-- 
-the day privacy laws have been passed and announced. 
-- cover the dual licensce model 
-- Company being a Registratar-- and NGO being the regitry governance authority
+
+Topics
+- Company being a Registratar-- and NGO being the registry governance authority - (data trust governance interop)
+ - privacy broadcasting  privacy policy clauses - for privacy agreement assurance framework 
+ - T&C pricacy policy clauses for updating T&C's to implement a privacy agreement framework in a standard way
+
+
+ -   broadcasting Policy Clauses for Terms and Conditions - implementing the transparency supply chain 
+ - 
  
+ - example framework - is OPN Broadcasting -
+- Semantic data control language for governance 
+- dual licensce model 
+
  OPN Broadcasting Policy Clause Framework
  - Privacy Policy for all of this - 
  - Privacy Assurance Framework
  
+Opt in to surveillance governance framework (AKA notice and consent) 
 
-Opt in to surveillance
 
 https://wiki.colossi.network/en/HCF/License
 How to protect our community from the perspective of big companies who benefit the most from open source?
