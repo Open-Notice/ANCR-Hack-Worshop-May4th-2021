@@ -14,9 +14,11 @@ This OPN-Kantara, Workshop is focused on further developing the policy and licen
 Key Topic :  development of an open source dual-multi entity type license lifecycle that is less exploitative and more innovative. 
 
 Ongoing Activites: The Usual List
-- Performance benchmarking Use Case - 
-- A working session on a protocol for filing a Privacy Rights Requests and benchmarking its performance for transparency over 'children and youth surveillace'
-- A working session on claues for superceding T&C's and implmenting privacy rights in services 
+- Performance benchmarking privacy rights with notifications  
+- A working session on a protocol for filing a Privacy Rights Requests and benchmarking its performance for transparency over 'children and youth surveillace' - Finish the Toronto Research (report) 
+- A working session on claues for superceding T&C's and implmenting privacy rights in services - adding a privacy agreement to T&C's
+- UNCL - adding UNCL in HTML Java, JSN LD, ASCII, to Phuscial signs - as paper receipts.  universifying human notice and controls. 
+-  
 Opt in to surveillance governance framework (AKA notice and consent) 
 
 https://wiki.colossi.network/en/HCF/License
