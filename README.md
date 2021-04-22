@@ -1,4 +1,9 @@
 # OPN-R-Workshop-05-04-21
+
+Every year on May 4th we legally hack transparnecy.  This year is the first year we have international standards an enforceable privacy (which was the focus of all previous years).  
+
+This year we start the public audit. 
+
 0PN mission - online public notice (transaprency broadcast) of who (what legal entity and accountable person) controls personal infrmation, and what rule book they have for surveillance/use etc of identifiers.   OPN is a Consent Receipt system which uses consent receipts to remeber digital identity relationships for people, so that the same notice doesnt have to be constantly repeated (once a proof of notice receipt is provided).  
 
 OPN signalling is designed to only generate notices if there is a change in the state of datal control and transparnecy which must be presented, and notarized in the OPN Public Notice Ledger. (in order to decentralize data governance) 
