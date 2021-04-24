@@ -1,26 +1,33 @@
 # OPN-R-Workshop-05-04-21
 
-Every year on May 4th we legally hack transparnecy.  This year is the first year we have international standards an enforceable privacy (which was the focus of all previous years).  
+Every year on May 4th we hack a bit on data privacy and transparnecy.  This year is the first year we have international standards an enforceable privacy (which was the focus of all previous years).  
 
-This year we start the public audit. 
+Intro - putting the language together (with standards and specs) 
+April 22, 2021  - IIW - we led a session about being open about the providence of control over data, using standardized semantics for purpose specification and contextdual integrity that transcendes the digital divide. 
 
+This year we plan an inro and 3 sessions 
 
-Notice Control Semantics, as a language for creating policy clauses and sending notices to use rights and measuring its performance. 
+Intro -
+1. Privacy & Contract Interop - enhancing T&C's
+2. Test and hack open public rights with the new standards and semantics. - testing performance
+3. Apply new standards and semantics to issues around licenses 
 
+Intro to cover
+Notice & Data Control Semantics, a language for creating policy clauses for creqting and generating rights based notices, and measuring its performance. 
 - we are creating a new language to enahce policy and trust fraemwork with rights based soviergn controls and open csource licensees that are true to people. 
 
-This OPN-Kantara, Workshop is focused on further developing the policy and licensing framework that can utilize/implement a notice control language in the policy for licensening transparency and data control utilities (like non-fungible tokens) 
+This OCG-Kantara, Workshop is focused on further developing the policy and licensing framework that can utilize/implement a notice control language in the policy for licensening transparency and data control utilities (like non-fungible tokens) 
 
 Key Topic :  development of an open source dual-multi entity type license lifecycle that is less exploitative and more innovative. 
 
-Ongoing Activites: The Usual List
+History and Ongoing Activites: The Usual List
 - Performance benchmarking privacy rights with notifications  
 - A working session on a protocol for filing a Privacy Rights Requests and benchmarking its performance for transparency over 'children and youth surveillace' - Finish the Toronto Research (report) 
 - A working session on claues for superceding T&C's and implmenting privacy rights in services - adding a privacy agreement to T&C's
 - UNCL - adding UNCL in HTML Java, JSN LD, ASCII, to Phuscial signs - as paper receipts.  universifying human notice and controls. 
--  
-Opt in to surveillance governance framework (AKA notice and consent) 
 
+ Taking on the licenses topis ( Intro - putting the language together (with standards and specs) 
+ 
 https://wiki.colossi.network/en/HCF/License
 
 How to protect our community from the perspective of big companies who benefit the most from open source?
@@ -31,7 +38,6 @@ How to estimate costs of the license fee based on the size of the business and c
 
 Call out the T&C versus the Privacy framework flow and approach ..
 - 911 poiicy - made this issue called FISA - which means T&C are not legal in other countriues and dont provide enough privacy and identiyt control in the US>
-
 
 Topics
 - Human Collosus Licenseing with UNCL
