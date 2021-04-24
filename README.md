@@ -5,12 +5,17 @@ Every year on May 4th we hack a bit on data privacy and transparnecy.  This year
 Intro - putting the language together (with standards and specs) 
 April 22, 2021  - IIW - we led a session about being open about the providence of control over data, using standardized semantics for purpose specification and contextdual integrity that transcendes the digital divide. 
 
-This year we plan an inro and 3 sessions 
+This year we plan an inro and 3 sessions (call / zoom link to be provided) 
 
-Intro -
-1. Privacy & Contract Interop - enhancing T&C's
-2. Test and hack open public rights with the new standards and semantics. - testing performance
-3. Apply new standards and semantics to issues around licenses 
+10:00 Eastern Intro - 
+10:30 Privacy & Contract Interop - enhancing T&C's (calling lawyers to work on privacy agreement framework for contract) 
+11:30 Break - open chat - eat - drink - laugh 
+12:00 - 1PM - A new Open Source License (from source.io) first session 
+1:15 - 2:15 - Hack & Test Open Session 
+- working in groups - license update 
+- OPN - privacy info request to Toronto School, Gov, etc 
+- Performance BenchMark - public use of rights w
+2:30 - 3:30 - May 25th - Admin - Send out invites - work on format - update website 
 
 Intro to cover
 Notice & Data Control Semantics, a language for creating policy clauses for creqting and generating rights based notices, and measuring its performance. 
