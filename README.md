@@ -6,11 +6,12 @@ This year we plan an intro and 2 sessions (call / zoom link to be provided) to h
 
 
 The annual focus for legal hacking is data transparency and data control and next week we aim to focus on hacking at a structural level. 
-9:30 - 10:00
+9:30 - 10:00 (eastern - Toronto time) 
 Session 1: Intro 
-It begins with an intro to semantic standards and specs stack for unifying data controls across 2 vectors approach is 
-1. Legal, technical, social semantics (human governance interop) 
-2. Standards and specifications from different communities which are interoperable. 
+It begins with an intro to ANCR - a Consent Record and Receipt framework for applying semantic standards 
+
+1. The PaE protocol and its use of the specification/standards stack for Legal, technical, social interop of identity (human governance interop) 
+2. WG's and their Standards, ANCR-Consent Reciept, ToiP:ISWG, W3C DPV 
 
 10:00-11:00
 Working Session 
@@ -19,10 +20,11 @@ Working Session
 
 11:00 - 12:00
 
-2. Open Public Notice - applying the stack to add semantics by adding a privacy agreement as a meta-governance framework  - using the privacy agreement pdating privacy policies, signs, cookie banners, and licenses.  
+2. ANCR - Starting the Open Source Project for - Open Public Notice -  the receipt wallet 
+Applying the stack to add semantics with a privacy agreement for meta-governance  - using the privacy agreement for updating privacy policies, signs, cookie banners, and licenses.  
 
 
- Taking on the licenses topis ( Intro - putting the language together (with standards and specs) 
+Duel Open Source licenses topis
  
 https://wiki.colossi.network/en/HCF/License
 
