@@ -2,10 +2,8 @@
 
 Every year on May 4th we hack a bit on data privacy and transparnecy.  This year is the first year we have international standards an enforceable privacy (which was the focus of all previous years).  
 
-Intro - putting the language together (with standards and specs) 
-April 22, 2021  - IIW - we led a session about being open about the providence of control over data, using standardized semantics for purpose specification and contextdual integrity that transcendes the digital divide. 
+This year we plan an inro and 2 sessions (call / zoom link to be provided) 
 
-This year we plan an inro and 3 sessions (call / zoom link to be provided) 
 
 The annual focus for legal hacking is data transparency and data control and next week we aim to focus on hacking at a structural level. 
 9:30 - 10:00
@@ -20,6 +18,7 @@ Working Session
 - intro from Robert 
 
 11:00 - 12:00
+
 2. Open Public Notice - applying the stack to add semantics by adding a privacy agreement as a meta-governance framework  - using the privacy agreement pdating privacy policies, signs, cookie banners, and licenses.  
 
 
