@@ -2,7 +2,7 @@
 
 Every year on May 4th we hack a bit on data privacy and transparnecy.  This year is the first year we have international standards an enforceable privacy (which was the focus of all previous years).  
 
-This year we plan an inro and 2 sessions (call / zoom link to be provided) 
+This year we plan an intro and 2 sessions (call / zoom link to be provided) to help organize a future hackathonn on this topic, and to plan an event June 1st to OPN Security & Privacy for people. 
 
 
 The annual focus for legal hacking is data transparency and data control and next week we aim to focus on hacking at a structural level. 
