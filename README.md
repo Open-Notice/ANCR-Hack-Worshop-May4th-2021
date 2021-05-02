@@ -1,4 +1,5 @@
 # OPN-R-Workshop-05-04-21
+Online Public Notice - for automating rights acessss
 
 Every year on May 4th we hack a bit on data privacy and transparnecy.  This year is the first year we have international standards an enforceable privacy (which was the focus of all previous years).  
 
@@ -39,16 +40,11 @@ How to make sure that HCF would not become of the centralized entity to collect 
 How to assure that who ever is commercializing open source components that would bring the benefits to the community?
 How to estimate costs of the license fee based on the size of the business and company?
 
-
  OPN Broadcasting Policy & Clause
  - Privacy Policy for OPN
  - Privacy Assurance Framework
- 
  
  Requirements 
 -  open and used for people to see and control their data with privacy rights and controls which are human centric.  Designed for people to control and see   surveillance capitalism in action. 
 
 
-
-
--- -
