@@ -41,6 +41,10 @@ How to make sure that HCF would not become of the centralized entity to collect 
 How to assure that who ever is commercializing open source components that would bring the benefits to the community?
 How to estimate costs of the license fee based on the size of the business and company?
 
+Some More Links
+http://www.commonaccord.org/index.php?action=source&file=S/Index/License.md
+https://polyformproject.org/licenses/  
+
  OPN Broadcasting Policy & Clause
  - Privacy Policy for OPN
  - Privacy Assurance Framework
