@@ -8,6 +8,7 @@ This year we plan an intro and 2 sessions (call / zoom link to be provided) to h
 
 The annual focus for legal hacking is data transparency and data control and next week we aim to focus on hacking at a structural level. 
 
+Goto-Meeting link  https://global.gotomeeting.com/join/562338533
 Session 1: Intro 
 9:30 - 10:00 (eastern - Toronto time) 
 - Standards, Specs:  ANCR-Consent Reciept/ISO 29100: 29184, ToiP:ISWG:Privacy Controller Credential, W3C Data Privacy Vocabulary v0.02
